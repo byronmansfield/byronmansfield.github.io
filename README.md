@@ -1,7 +1,7 @@
 # Twitch Search Exercise for Sony #
 
 ## Description ##
-This is a coding exercise for Sony. The exercise is should make ajax requests to Twitch API and display the results.
+This is a coding exercise for Sony. The exercise is should make ajax requests to Twitch API and display the results. It can be viewed at [http://byronmansfield.github.io/](http://byronmansfield.github.io/)
 
 ## Requirements ##
 _as per email from Nick Barker_
